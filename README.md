@@ -46,11 +46,5 @@ The dashboard transforms raw business data into meaningful visual insights using
 ## Project Objective
 To build a business intelligence dashboard that helps analyze sales performance, customer trends, and outlet efficiency through interactive visualizations.
 
-## Repository Structure
 
-Blinkit-PowerBI-Dashboard/
-│
-├── Blinkit_Dashboard.pbix
-├── Dataset/
-├── Screenshots/
-└── README.md
+
